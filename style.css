@@ -6,3 +6,8 @@ table,tr,td{
 h1{
   text-align: center;
 }
+ .serif, tr,td{
+  font-family: "Times New Roman", Times, serif;
+	background-color: purple;
+}
+#factspage {background-color:aqua}
